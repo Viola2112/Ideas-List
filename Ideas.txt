@@ -1,5 +1,7 @@
 Things to remember to do
 
+Test test test
+
 Apply to UAB
 
 A chess engine which uses entropy (# of possible moves) as its static evaluation function — could test partly using 1-D chess program
